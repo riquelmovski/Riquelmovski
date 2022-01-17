@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Riquelmovski">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=riquelmovski&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmovski&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquelmovski&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmovski&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   ##
