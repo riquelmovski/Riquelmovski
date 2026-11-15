@@ -10,12 +10,11 @@
  
 <div> 
   
-  <a href="https://instagram.com/imatheusriquelme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/riquelmets" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusriquelmevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a> 
  
-  ![Snake animation](https://github.com/riquelmovski/riquelmovski/blob/output/github-contribution-grid-snake.svg)
-  ![Animação da Cobrinha de Contribuições](https://github.com/riquelmovski)
+  ![snake gif](https://github.com/riquelmovski/riquelmovski/blob/output/github-snake-dark.svg)
 
  
 </div>
